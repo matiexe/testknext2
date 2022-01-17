@@ -1,5 +1,5 @@
 import React from 'react'
-import Navbar from "../components/Header";
+import Navbar from "../components/header";
 import Footer from "../components/footer";
 import Services from "../components/service/Service";
 import { motion } from "framer-motion";

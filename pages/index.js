@@ -1,5 +1,5 @@
 import React from "react";
-import Header from "../components/Header"
+import Header from "../components/header"
 import Hero from "../components/hero/index"
 import Testimonials from "../components/testimonials/index"
 import Alianzas from "../components/alianzas/index"
